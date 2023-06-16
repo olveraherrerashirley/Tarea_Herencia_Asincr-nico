@@ -1,4 +1,4 @@
-# VILLACIS BOHORQUEZ MICHAEL ROBERT
+# OLVERA HERRERA SHIRLEY BRIGGITT
 from cuenta_ahorros import CuentaAhorros
 from cuenta_corriente import CuentaCorriente
 cuenta_ahorros = CuentaAhorros(numero=1, nombre_propietario="Dario Gomez", saldo=2000, interes=0.05)
